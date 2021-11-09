@@ -41,3 +41,6 @@ Pubemd、Reddit、Yelp-Small、Yelp-Large
 2、文中也提出，添加连接两个社团的桥边可以影响许多节点的潜在表示 **（先验证mettack和nettack攻击后图图数据是否有这样的现象，如果有这样的现象，那我们是不是可以先进行社团划分，再删掉不同社团之间的边，这样看看是否能够提升鲁棒性）  
 
 3、这个工作需要借助其它数据集，这一点感觉不是特别好
+
+
+## 论文2： GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks(NeurIPS 2020)
