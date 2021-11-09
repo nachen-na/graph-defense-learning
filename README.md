@@ -19,6 +19,7 @@
 2、提出一个新的框架PA_GNN，通过设计惩罚聚合机制去消除对抗边的影响，并同时使用元优化算法去将这种能力迁移到投毒攻击上面  
 
 **模型**  
+![image](https://user-images.githubusercontent.com/28797626/140857119-8a81c6aa-3934-4f3a-8489-a1d0b06d30fc.png)
 
 
 
