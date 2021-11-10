@@ -43,4 +43,5 @@ Pubemd、Reddit、Yelp-Small、Yelp-Large
 3、这个工作需要借助其它数据集，这一点感觉不是特别好
 
 
-## 论文2： GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks(NeurIPS 2020)
+## 论文2： GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks(NeurIPS 2020)  
+ 论文思想：
